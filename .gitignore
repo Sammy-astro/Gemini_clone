@@ -23,4 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-config/gemini.js
+# config/gemini.js
+
+# Ignore .env file
+# .env
